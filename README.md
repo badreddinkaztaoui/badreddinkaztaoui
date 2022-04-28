@@ -7,4 +7,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badreddinkaztaoui&layout=compact&show_icons=true&theme=radical)](https://github.com/badreddinkaztaoui/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=badreddinkaztaoui&repo=github-readme-stats)](https://github.com/badreddinkaztaoui/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=badreddinkaztaoui)](https://github.com/badreddinkaztaoui/github-readme-stats)
