@@ -13,3 +13,5 @@ You can check out my LinkedIn at https://www.linkedin.com/in/badr-kaztaoui/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badreddinkaztaoui&layout=compact&show_icons=true&theme=radical)](https://github.com/badreddinkaztaoui/github-readme-stats)
 
+
+https://github.com/badreddinkaztaoui/badreddinkaztaoui/blob/main/html5.svg
