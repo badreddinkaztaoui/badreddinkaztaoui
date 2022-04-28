@@ -1,4 +1,4 @@
-### Hello, I'm Badr Kaztaoui 👋
+### Hey, I'm Badr Kaztaoui 👋
 
 #### Info
 
