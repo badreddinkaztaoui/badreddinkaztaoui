@@ -14,7 +14,7 @@ You can check out my LinkedIn at https://www.linkedin.com/in/badr-kaztaoui/
 #### My skills 🧶
 
 - ⚛️ Reactjs / Nextjs
-- 💻 Html / Css / Javascript
+- 💻 Html / Css / Javascript / Typescript
 - ☄️ Tailwind / Bootstrap / MaterialUI
 
 #### My github states 📊
