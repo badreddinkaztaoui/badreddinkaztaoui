@@ -26,7 +26,7 @@ A collection of responsive landing pages built using modern web development tech
 
 The Landings project is a great resource for developers and designers looking to create high-quality landing pages quickly and efficiently. Each template is available as a standalone project, making it easy to incorporate into any existing website or web application. The project is open-source and contributions from the community are always welcome.
 
-### Project 2
+### Retro Race
 
 A retro-style web game builted using THREEjs, the game challenges players to navigate through a series of increasingly difficult levels while avoiding obstacles and collecting coins. (Still in DEV mode).
 
