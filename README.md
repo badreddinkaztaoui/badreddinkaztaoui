@@ -11,9 +11,7 @@
 Creative and self-made Front End Developer with 4+ years experience building and maintaining responsive websites and apps in the recruiting industry. Proficient in HTML, CSS,JavaScript, Reactjs and Nextjs, plus modern libraries and frameworks. Passionate about usability and possess working knowledge of Figma & Sketch.
 You can check out my LinkedIn at https://www.linkedin.com/in/badr-kaztaoui/
 
-[![badreddinkaztaoui
-'s 42 stats](https://badge.mediaplus.ma/darkblue/badreddinkaztaoui
-)](https://github.com/oakoudad/badge42)
+[![badreddinkaztaoui's 42 stats](https://badge.mediaplus.ma/binary/badreddinkaztaoui)](https://github.com/oakoudad/badge42)
 
 #### My skills 🧶
 
