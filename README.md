@@ -12,7 +12,7 @@ Creative and self-made Front End Developer with 4+ years experience building and
 You can check out my LinkedIn at:
 https://www.linkedin.com/in/badr-kaztaoui/
 
-[![badreddinkaztaoui's 42 stats](https://badge.mediaplus.ma/binary/badreddinkaztaoui)](https://github.com/oakoudad/badge42)
+[![bkaztaou's 42 stats](https://badge.mediaplus.ma/binary/bkaztaou)](https://github.com/oakoudad/badge42)
 
 #### My skills 🧶
 
