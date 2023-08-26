@@ -11,6 +11,7 @@ My Github Stats
 ---------------
 
 ![badreddinkaztaoui's GitHub stats](https://github-readme-stats.vercel.app/api?username=badreddinkaztaoui&show_icons=true&theme=transparent)
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="badr-kaztaoui" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/badr-kaztaoui?trk=profile-badge">Badredddin Kaztaoui</a></div>
 
 My Projects
 -----------
