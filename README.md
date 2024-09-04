@@ -15,6 +15,6 @@ My Github Stats
 
 Get in Touch
 ------------
-I'm always open to collaborate and explore new opportunities. If you'd like to connect or have a project idea in mind, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/badr-kaztaoui/) or [Phone number](+212 694 019 452).
+I'm always open to collaborate and explore new opportunities. If you'd like to connect or have a project idea in mind, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/badr-kaztaoui/).
 </html>
 
