@@ -1,4 +1,4 @@
-# 💫 That's Me ~ frequence
+# 💫 Yoo!
 I'm a software engineer student who thrives on diving deep into the nitty-gritty of code.<br>From the intricacies of low-level programming to the automation magic of DevOps, I'm constantly learning and growing. My love for Linux and C has fueled my curiosity and drive to build efficient and reliable systems.<br>I'm excited to continue my journey and contribute to innovative projects.
 
 
@@ -22,6 +22,5 @@ I'm a software engineer student who thrives on diving deep into the nitty-gritty
 ![](https://github-contributor-stats.vercel.app/api?username=badreddinkaztaoui&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=badreddinkaztaoui&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=frequence&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
